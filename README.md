@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Astgen Software LLP BPOPAL 
 - 🌱 I’m currently learning Backend (D-Jango)
-- 💬 Ask me anything about PYTHON+DJANJO( HTML,CSS,JS,BOOTSTRAPE )
+- 💬 Ask me anything about PYTHON+DJANJO( HTML,CSS,JS, Bootstrap )
 - 📫 How to reach me: https://github.com/nigam-ankita
 - 😄 My website: https://github.com/nigam-ankita
 - ⚡ Fun fact: I'm comming to teen
