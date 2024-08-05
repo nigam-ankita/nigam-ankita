@@ -11,7 +11,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,react,nodejs,expressjs,Redux,Nodemon,MongoDB,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,react,nodejs,expressjs,redux,nodemon,mongoDB,github)](https://skillicons.dev)
 
 
 
