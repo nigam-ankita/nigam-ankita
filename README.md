@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Ankita Nigam</h1>
 
-- 🔭 I’m currently working on Astgen Software LLP BPOPAL 
-- 🌱 I’m currently learning Backend (D-Jango)
-- 💬 Ask me anything about PYTHON+DJANJO( HTML,CSS,JS, Bootstrap )
+- 🔭 I’m currently Interning Mxpertz Infolab
+- 🌱 I’m currently learning Backend (nodejs)
+- 💬 Ask me anything about Mern Stack
 - 📫 How to reach me: https://github.com/nigam-ankita
 - 😄 My website: https://github.com/nigam-ankita
 - ⚡ Fun fact: I'm comming to teen
@@ -11,7 +11,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,django,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jQury,React,express,Redux,Nodemon,Mongodb github)](https://skillicons.dev)
 
 
 
