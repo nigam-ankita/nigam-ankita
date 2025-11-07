@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ankita Nigam</h1>
 
-- 🔭 I’m currently Interning Mxpertz Infolab
+- 🔭 I’m currently working criniger technologies pvt. ltd. (React js / React Native)
 - 🌱 I’m currently learning Backend (nodejs)
 - 💬 Ask me anything about Mern Stack
 - 📫 How to reach me: https://github.com/nigam-ankita
